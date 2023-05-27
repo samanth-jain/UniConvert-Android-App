@@ -1,6 +1,7 @@
 # UniConvert-Android-App
 An android app for all your unit conversion needs
-You can Download the app on Playstore: https://play.google.com/store/apps/details?id=com.samanth.uniconvert
+
+# You can Download the app on Playstore: https://play.google.com/store/apps/details?id=com.samanth.uniconvert
 
 
 ![Phone Screenshot 1](https://github.com/samanth-jain/UniConvert-Android-App/assets/107352626/cd9492d9-e3c5-4f7a-858b-86112ef68dad)
