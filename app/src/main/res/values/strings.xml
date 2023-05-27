@@ -1,0 +1,133 @@
+<resources>
+
+    <style name="SpinnerTextViewItem" parent="@android:style/Widget.TextView">
+        <item name="android:textSize">8dp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <string name="app_name">UniConvert</string>
+    <string name="length">Length</string>
+
+    <string name="from">From:</string>
+    <string name="to">To:</string>
+    <string name="calculate">Calculate</string>
+    <string name="clear">clear</string>
+    <string name="ans">Ans:</string>
+
+    <string name="enter_value">Enter Value</string>
+    <string name="area">Area</string>
+
+    <string-array name="units_length">
+        <item>Nanometers </item>
+        <item>Micrometers</item>
+        <item>Millimeters</item>
+        <item>Centimeters</item>
+        <item>Meters</item>
+        <item>Kilometers</item>
+        <item>Inches</item>
+        <item>Feet</item>
+        <item>Miles</item>
+        <item>Yards</item>
+        <item>Nautical Miles</item>
+    </string-array>
+
+    <string-array name="units_length2">
+        <item>Nanometers </item>
+        <item>Micrometers</item>
+        <item>Millimeters</item>
+        <item>Centimeters</item>
+        <item>Meters</item>
+        <item>Kilometers</item>
+        <item>Inches</item>
+        <item>Feet</item>
+        <item>Miles</item>
+        <item>Yards</item>
+        <item>Nautical Miles</item>
+    </string-array>
+
+    <string-array name="units_area1">
+        <item>Square millimeter</item>
+        <item>Square centimeters</item>
+        <item>Square meters</item>
+        <item>Square kilometer</item>
+        <item>Square inches</item>
+        <item>Square feet</item>
+        <item>Square miles</item>
+        <item>Square yards</item>
+        <item>Hectares</item>
+        <item>Acres</item>
+
+    </string-array>
+    <string-array name="units_area2">
+        <item>Square millimeter</item>
+        <item>Square centimeters</item>
+        <item>Square meters</item>
+        <item>Square kilometer</item>
+        <item>Square inches</item>
+        <item>Square feet</item>
+        <item>Square miles</item>
+        <item>Square yards</item>
+        <item>Hectares</item>
+        <item>Acres</item>
+
+    </string-array>
+
+    <string-array name="units_temp1">
+        <item>Celsius</item>
+        <item>Fahrenheit</item>
+        <item>Kelvin</item>
+        <item>Rankine scale</item>
+    </string-array>
+    <string-array name="units_temp2">
+        <item>Celsius</item>
+        <item>Fahrenheit</item>
+        <item>Kelvin</item>
+        <item>Rankine scale</item>
+    </string-array>
+
+    <string-array name="units_time1">
+        <item>Millisecond</item>
+        <item>Seconds</item>
+        <item>Minute</item>
+        <item>Hour</item>
+        <item>Day</item>
+        <item>Week</item>
+        <item>Month</item>
+        <item>Year</item>
+    </string-array>
+
+    <string-array name="units_time2">
+        <item>Millisecond</item>
+        <item>Seconds</item>
+        <item>Minute</item>
+        <item>Hour</item>
+        <item>Day</item>
+        <item>Week</item>
+        <item>Month</item>
+        <item>Year</item>
+    </string-array>
+
+    <string-array name="units_volume1">
+        <item>MilliLiter/Cubic centimeter</item>
+        <item>Liter</item>
+        <item>Cubic meter</item>
+        <item>Cubic inch</item>
+        <item>Cubic foot</item>
+        <item>Cubic yard</item>
+        <item>Fluid ounce</item>
+        <item>Gallon(US)</item>
+        <item>Barrel(US)</item>
+    </string-array>
+    <string-array name="units_volume2">
+        <item>MilliLiter/Cubic centimeter</item>
+        <item>Liter</item>
+        <item>Cubic meter</item>
+        <item>Cubic inch</item>
+        <item>Cubic foot</item>
+        <item>Cubic yard</item>
+        <item>Fluid ounce</item>
+        <item>Gallon(US)</item>
+        <item>Quart(US)</item>
+    </string-array>
+
+</resources>
